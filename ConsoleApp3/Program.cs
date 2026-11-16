@@ -10,6 +10,8 @@ public class Program
         {
             double a = P / 3.0;
             Console.WriteLine(a);
+                    Console.Write("Зміна в коді ");
+
         }
     }
 }
